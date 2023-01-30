@@ -16,7 +16,7 @@
 ### My Testing Documentation
 
 - [![CL](https://img.shields.io/badge/My%20CheckLists-090909?style=plastic)](https://github.com/amsterance/checklist)
-- [![TC](https://img.shields.io/badge/My%20Test%20Cases-090909?style=plastic)](https://github.com/amsterance/test_cases)
+- [![TC](https://img.shields.io/badge/My%20Test%20Cases-090909?style=plastic)](https://github.com/amsterance/test-cases)
 - [![BUG](https://img.shields.io/badge/My%20Bug%20Reports-090909?style=plastic)](https://github.com/amsterance/bug-reports)
 
 ### My contacts
