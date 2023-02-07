@@ -1,5 +1,5 @@
 ![Header](https://github.com/Amsterance/Amsterance/blob/main/assets/pic818.png)
-## I'm a beginner QA Engineer
+## I'm a QA Engineer
 ### My CV
 
 [![Header](https://img.shields.io/badge/Link%20To%20My%20CV-909090?style=plastic)](https://)
