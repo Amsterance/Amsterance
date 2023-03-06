@@ -2,7 +2,7 @@
 ## I'm a QA Engineer
 ### My CV
 
-[![CV](https://img.shields.io/badge/Link%20To%20My%20CV-909090?style=plastic)](https://drive.google.com/file/d/17yhAT9ZRA0UmaKynGtyoUCF9rTnw0YTe/view?usp=share_link)
+[![CV](https://img.shields.io/badge/Link%20To%20My%20CV-909090?style=plastic)](https://drive.google.com/file/d/1eDyy3rbG1TQxQGVhdNnX22FFqnCS7GBB/view?usp=share_link)
 
 
 ### Language and Tools
